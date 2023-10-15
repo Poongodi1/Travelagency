@@ -1,0 +1,227 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-style:arial;
+}
+div{
+	width:95%;
+	height:auto;
+    margin:auto;
+}
+nav{
+	width:100%;
+	height:40px;
+	background-color:#4C554C;
+	color:#A8A388
+}
+nav ol li{
+	display:inline-block;
+	width:176px;
+	text-align:center;
+	padding-top:11px;
+	padding-bottom:10px;
+	font-weight:bold;
+}
+nav ol li:hover{
+	color:#FFFFFF;
+	cursor:pointer;
+	}
+header{
+	width:100%;
+	height:150px;
+	background-image:url(pic1.jpg);
+    background-size:100% 100%;}
+header img{
+    margin:45px 0px 0px 40px;}
+  p{
+	float:right;
+	margin:63px 790px 0px 0px;
+	font-size:20px;}
+form{
+	display:flex;
+	float:left;
+	margin:0px 0px 0px 910px;
+    }
+ #c4{
+	padding:8px;
+	border:1px solid black;
+	background-color:#AFBBAF;
+}
+#hed3{
+	  width:100%;
+	  height:450px;
+	  background-image:url(pic11.jpeg);
+      background-size:100% 100%;}
+	 
+#dv1{
+       width:100%;
+       height:370px;
+	   border-top:50px solid #a9c949;
+       background-color:#a9c949;}	
+#dv1 #lo{
+	width:100%;
+	height:50px;
+    margin:0px 0px 0px 40px;
+	 }	
+#dv1 #c3{
+	width:100%;
+	height:200px;
+    display:flex;}
+	#c3 aside{
+	width:35%;
+	height:200px;
+}
+#c3 img{
+	border:1px solid white;
+    margin:20px 20px 10px 40px;}
+#dv1 p{
+	 height:120px;
+	 font-size:17px;
+	 word-spacing:4px;
+     margin:30px 20px 10px 40px;}	
+#hed1{
+	width:100%;
+	height:220px;
+	border-bottom:7px solid #A8A388;
+	background-image:url(pic4.jpg);
+    background-size:100% 100%;}
+	#hed1 h1{
+		float:right;
+	    margin:2px 570px 0px 0px;
+		color:white;}
+	#hed1 #pa1{
+		float:left;
+		margin:15px 0px 0px 460px;
+		color:white;
+		font-size:17px;}
+	#hed1 #ip1{
+		width:10%;
+	    float:right;
+		margin:10px 680px 0px 0px;
+		padding:6px;
+	    border:1px solid black;
+	    background-color:#C3CECA;
+		text-align:center;
+		font-size:15px;
+		cursor:pointer;}
+	#hed1 #ip1::placeholder{
+	    color:black;
+}	
+#hed2{
+	width:100%;
+	height:200px;
+	border-bottom:1px solid black;
+	background-image:url(pic5.jpg);
+    background-size:100% 100%;}
+	#hed2 #he1{
+		float:right;
+	    margin:13px 640px 0px 0px;
+		color:white;}
+	#hed2 #pa2{
+		float:left;
+		margin:17px 0px 0px 460px;
+		text-align:left;
+		color:white;
+		font-size:17px;}
+	#hed2 #ip2{
+		width:10%;
+	    float:right;
+		margin:22px 680px 0px 0px;
+		padding:6px;
+	    background-color:#C3CECA;
+		text-align:center;
+		font-size:15px;
+		cursor:pointer;}
+	#hed2 #ip2::placeholder{
+	    color:black;
+}	
+#c1{
+	width:100%;
+	height:320px;
+	display:flex;
+	background-color:#AFC4B7;
+}
+#c1 #art1{
+	 width:30%;
+     height:320px;
+}
+#c1 #he2{font-size:25px;
+    margin:25px 0px 0px 40px;}
+#c1 #im1{
+    margin:30px 0px 0px 40px;
+	border:1px solid white;}	
+#c1 h4{
+    margin:0px 0px 20px 40px;}
+#c1 #pa3{font-size:15px;
+	margin:0px 0px 21px 40px;}
+#c1 #art2{
+	 width:70%;
+     height:320px;}
+#c1 #he3{font-size:25px;
+    margin:25px 0px 0px 45px;}
+#d1{
+    display:flex;
+    width:100%;
+    height:320px;
+    border:0px solid #AFC4B7;
+}	
+#c1 #im2{width:35%;
+       height:150px;
+    margin:35px 0px 0px 25px;
+    border:1px solid white;
+	}	
+#c1 #art2 #pa4{width:60%;
+        word-spacing:3px;
+	    margin:35px 10px 0px 20px;
+		line-height:17px;
+	    font-size:16px;
+	}	
+#c2{
+	width:100%;
+	height:280px;
+	border-bottom:1px solid black;
+	display:flex;
+    background-color:#AFC4B7;}
+#c2 #as1{
+	width:30%;
+    height:280px;
+	}
+#c2 #as1 #im3{
+	margin:30px 0px 0px 40px;
+	border:1px solid white;}	
+#c2 #fi{
+    margin:0px 0px 20px 40px;}
+#c2 #pa5{font-size:15px;
+	margin:0px 0px 21px 40px;}
+#c2 #as3{
+	    width:40%;
+        height:280px;
+		}
+#c2 #as3 #he5{
+    margin:20px 0px 0px 40px;}
+#c2 #as3 #pa6{
+	margin:30px 0px 0px 40px;
+	font-size:16px;}
+#c2 #as2{
+       	width:30%;
+        height:280px;}
+#c2 #as2 table{
+         margin:40px 0px 0px 50px;
+		 line-height:35px;}	
+#c2 #as2 #he4{
+          margin:30px 0px 0px 40px;}	
+footer{
+	width:100%;
+	height:100px;
+	background-color:#33322E;
+	text-align:center;
+	color:#A8A388;
+}
+footer #List1 li{
+	display:inline-block;
+	margin:30px 20px 20px 20px;
+}
+footer #List2 li{
+      display:inline-block;
+	
+}	
